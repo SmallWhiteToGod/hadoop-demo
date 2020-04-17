@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!--参数优先级： 代码中设置的值 > PATH路径下配置文件 > 服务器配置文件-->
+<configuration>
+    <property>
+        <name>dfs.replication</name>
+        <value>2</value>
+    </property>
+</configuration>
