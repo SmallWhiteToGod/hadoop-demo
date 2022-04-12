@@ -10,7 +10,7 @@
     <name>hdfs - 客户端</name>
 
     <properties>
-        <hadoop.version>2.7.2</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
     </properties>
 
     <dependencies>
